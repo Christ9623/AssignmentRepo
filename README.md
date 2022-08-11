@@ -1,4 +1,4 @@
-# Foobar
+# Assignment Repository Jlabs QA Automation Batch 10
 
 Foobar is a Python library for dealing with word pluralization.
 
