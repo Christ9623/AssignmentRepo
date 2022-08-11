@@ -1,0 +1,2 @@
+module Tugas1 {
+}
