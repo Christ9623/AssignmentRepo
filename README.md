@@ -1,8 +1,16 @@
 # Assignment Repository Jlabs QA Automation Batch 10
 
-Foobar is a Python library for dealing with word pluralization.
+Repository ini dibuat sebagai kumpulan tugas-tugas yang diberikan pada kelas QA Automation Batch 10 oleh Jakartalabs.
 
-## Installation
+Author : Christian Aditya
+
+# Cara Penggunaan Repository
+
+Masuk ke folder Tugas 1 sampai Tugas 5
+
+## Tugas 1
+
+Tugas 1 berisikan tentang fundamental Java Programming, tugas ini berisikan pembuatan fungsi TreeMap dan HashMap dengan Java
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
